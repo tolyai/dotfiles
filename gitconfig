@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = tolyaig@gmail.com
+	name = Anatoly Gorshkov
